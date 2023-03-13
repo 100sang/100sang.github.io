@@ -1,0 +1,1 @@
+import{_ as a,p as e,q as t}from"./framework-aa5c4115.js";const s={},c={class:"adsbygoogle",style:{display:"block","text-align":"center"},"data-ad-layout":"in-article","data-ad-format":"fluid","data-ad-client":"ca-pub-7543428129030165","data-ad-slot":"6072791391"};function n(o,d){return e(),t("ins",c)}const r=a(s,[["render",n],["__file","Adsense.vue"]]);export{r as default};
