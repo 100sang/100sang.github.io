@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7a1db0f6","path":"/blogs/interview/","title":"Tech Interview","lang":"en-US","frontmatter":{"title":"Tech Interview","description":"Description of this page","date":"2022/06/29"},"headers":[],"git":{},"filePathRelative":"blogs/interview/index.md"}');export{e as data};

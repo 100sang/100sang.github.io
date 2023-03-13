@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-143fad4a","path":"/blogs/writing/","title":"Technical Writing","lang":"en-US","frontmatter":{"title":"Technical Writing","description":"Description of this page","date":"2022/06/29"},"headers":[],"git":{},"filePathRelative":"blogs/writing/index.md"}');export{t as data};

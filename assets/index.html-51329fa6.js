@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as s,s as e}from"./framework-aa5c4115.js";const o={},_=e("p",null,[e("strong",null,"AI-900")],-1),c=[_];function l(r,a){return n(),s("div",null,c)}const i=t(o,[["render",l],["__file","index.html.vue"]]);export{i as default};

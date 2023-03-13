@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-70b37142","path":"/blogs/tech/","title":"Tech Stack","lang":"en-US","frontmatter":{"title":"Tech Stack","description":"Description of this page","date":"2022/06/29"},"headers":[],"git":{},"filePathRelative":"blogs/tech/index.md"}');export{t as data};
